@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi , I'm Muhamed Saleh </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
-<picture> <img align="right" src="https://github.com/0xabdulkhalid/0xabdulkhalid/raw/main/assets/mdImages/programming.svg" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/0xabdulkhalid/0xabdulkhalid/raw/main/assets/mdImages/programming.svg" width = 200px></picture>
 
 <!-- animated text -->
 <p align="center">
