@@ -21,7 +21,7 @@
 - Hard worker
 - longlife learner
 - book worm
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1guHq3uckT1cLYomVgew_XtXcDOG67Rcg/view?usp=drive_link)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1lLqYVjU7ylpMQ1xcAbM3g-UrqWVCHfLH/view?usp=drive_link)
   
 <br>
 
