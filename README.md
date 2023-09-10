@@ -53,6 +53,7 @@
     ![JAVA](https://img.shields.io/badge/JAVA%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![javaScript](https://img.shields.io/badge/javaScript%20-%2314354C.svg?style=for-the-badge&logo=javaScript&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?style=for-the-badge&logo=TypeScript&logoColor=black)
 
 <br>   
     
