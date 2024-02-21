@@ -71,8 +71,8 @@
     
 - **Back-End Development**:
 
-   ![Nodejs](https://img.shields.io/badge/Nodejs%20-%23E34F26.svg?style=for-the-badge&logo=Nodejs&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![Nodejs](https://img.shields.io/badge/Nodejs%20-%23E34F26.svg?style=for-the-badge&logo=Nodejs&logoColor=white)
    ![Express.js](https://img.shields.io/badge/Express.js%20-%231572B6.svg?style=for-the-badge&logo=Express.js&logoColor=white)
    ![Nest.js](https://img.shields.io/badge/Nest.js%20-%23F7DF1E.svg?style=for-the-badge&logo=Nest.js&logoColor=black)
   
